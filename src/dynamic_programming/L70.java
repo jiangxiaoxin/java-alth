@@ -1,3 +1,5 @@
+package dynamic_programming;
+
 public class L70 {
     public static void main(String[] args) {
         int n = 4;

@@ -1,3 +1,5 @@
+package dynamic_programming;
+
 public class L746 {
 
     public static void main(String[] args) {

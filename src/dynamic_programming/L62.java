@@ -1,3 +1,5 @@
+package dynamic_programming;
+
 public class L62 {
 
     public static void main(String[] args) {
