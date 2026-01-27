@@ -1,0 +1,8 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÌÑ»8ï­¹¦¾3J$b1e2a2f3-b2c3-436f-9c05-6a20f29bc693
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£‚àÄüÿÿÿÿ8ğ­¹¦¾3J$e01bf6d9-724f-481e-847c-6b35c0f6d5c8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şî¢ÿÿÿÿÿ8ñ­¹¦¾3J$49351a66-dfb4-483c-9bc2-1c09ab8a6ccb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(œÛ„Çùÿÿÿÿ8ö­¹¦¾3J$3e86d79f-122c-48be-b565-73a5f2413d4b
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ø­¹¦¾3J$ee57b4bf-58dd-4fdf-b26d-a3680d093b7e

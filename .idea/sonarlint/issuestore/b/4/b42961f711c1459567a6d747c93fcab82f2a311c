@@ -1,0 +1,16 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üãˆ…ûÿÿÿÿJ$e03f1303-a889-41ab-925e-985483972132
+™	java:S135m"YReduce the total number of break and continue statements in this loop to use at most one.(‡’ÉðúÿÿÿÿJ$ffd43f75-8d97-4442-b426-3ee63614f493
+Y
+java:S1643—"Use a StringBuilder instead.(´¸ÊˆJ$69e04656-e6f0-490e-b822-74665a173763
+^
+java:S1643›"Use a StringBuilder instead.(Ì‡æêþÿÿÿÿJ$870be2f8-edf3-44b5-8ef7-b6895f77840a
+v
+java:S1118":Add a private constructor to hide the implicit public one.(¼ØûìJ$120a4bb0-73b4-4ae5-9058-a993f85b4415
+y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¦ö³eJ$783090a9-f65e-402d-a669-7c8522b9133d
+y
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(¦ö³eJ$3c4caf94-857e-4cf5-8e6c-1cb6b2a8f065
+y
+java:S1155I">Use isEmpty() to check whether the collection is empty or not.(¦ö³eJ$c72ce8f1-65c4-4af2-b8cc-91853494639f

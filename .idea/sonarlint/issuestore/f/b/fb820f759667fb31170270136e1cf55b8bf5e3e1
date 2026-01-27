@@ -1,0 +1,10 @@
+
+•
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( íµJ$1276f73a-24c8-4051-88fb-2a8e72cc66f8
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äºèºùÿÿÿÿJ$b75bf01d-1eb0-4cba-ac7a-5d39a16e6b49
+V
+java:S1220""Move this file to a named package.J$d13f269d-f406-4e82-8b4b-04d61a009d7c
+|	java:S125"<This block of commented-out lines of code should be removed.(–ÒÇúşÿÿÿÿJ$c6086e1c-84d5-4cfc-991c-56fcdc1e1aef
+k	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$6458d659-0f28-4ece-9a02-ae72d1d9e1f5
+m
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿJ$6ac0cc4f-8cda-4d71-b193-449af3ba43b0

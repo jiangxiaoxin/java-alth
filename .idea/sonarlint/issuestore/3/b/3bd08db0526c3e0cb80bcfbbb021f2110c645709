@@ -1,0 +1,19 @@
+
+š
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÂ“þÿÿÿÿJ$4fe423ac-4cdd-4a1c-bea0-677b23ff1d2a
+V
+java:S1220""Move this file to a named package.J$67284266-9821-4100-a128-1f698ac11dbd
+v	java:S125"<This block of commented-out lines of code should be removed.(“û×SJ$6a048a5a-3848-4b78-adab-f62b49cf9442
+m
+java:S6126"2Replace this String concatenation with Text block.(ÄñìIJ$cf154090-a23b-41c9-923a-cc58faf385c3
+e	java:S106"+Replace this use of System.out by a logger.(úñ»YJ$8188377f-7c84-4b9c-bd34-e719adfcf9ee
+Ž
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Çíˆ‡J$ba82364e-79ba-4906-abe4-daeb232ea56b
+c
+java:S1125>"'Remove the unnecessary boolean literal.(©©–âJ$27d1616d-275d-4b9c-b80f-dcadcb2c25db
+l
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒJ$3880bc3f-d86c-42d9-a85e-18e553991878
+l
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð1J$b8ec1f58-c203-44f5-bac6-705180360b06
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$2c7112a2-3da0-417f-a792-117574865869
