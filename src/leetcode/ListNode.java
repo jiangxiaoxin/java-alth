@@ -26,7 +26,7 @@ public class ListNode {
       }
     public static String printListNodes(ListNode head) {
           if(head == null) {
-              System.out.println("空链表");
+              System.out.println("空链表--null");
               return "";
           }
         StringBuilder builder = new StringBuilder();
